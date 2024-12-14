@@ -1,7 +1,5 @@
 # blogger-movies-theme
 
-# Movies Blogger Template 🎬
-
 ## Overview 🌟
 The **Movies Blogger Template** is a modern, sleek, and feature-rich theme designed for movie enthusiasts. Whether you want to create a movie downloading or streaming blog, this template has all the essentials to get started effortlessly.
 
