@@ -36,17 +36,15 @@ Add an image here to showcase your template.
 
 ## Support 🛎️
 If you have any issues or need help setting up the template, feel free to contact us:
-- **Email**: support@example.com
-- **Website**: [Our Website](https://example.com)
+- **Telegram Group**: [Join Now](https://t.me/tsh_design)
+- **Website**: [Our Website](https://thesquadhub.blogspot.com/)
 
 ## License 📄
 This template is free for personal use. For commercial use, please contact us for licensing details.
 
 ## Stay Connected 🌐
 Follow us for updates and new templates:
-- [Facebook](https://facebook.com)
-- [Twitter](https://twitter.com)
-- [Instagram](https://instagram.com)
+- [Telegram Channel](https://t.me/themeskode)
 
 ---
 
