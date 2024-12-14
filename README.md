@@ -33,6 +33,7 @@ Check out the live demo of the template here: [Live Demo](https://filmlokhd.in/)
 
 ## Screenshot Paid Version 📸
 The premium version of the Movies Blogger Template offers advanced features and a professional layout to elevate your movie blogging experience. Below is a preview of the paid version:
+
 ![Template Preview](https://blogger.googleusercontent.com/img/a/AVvXsEhvF144Y4kUCei-te1nS-OLR-WXaReEtT0vJQ1psfjgg4t-HhBmQBvoj55d_a7MWUZGsrjM3kNYaLoXObaMICZ_Ju4Rj-LHE4RUwbtPuvtYrOsyi6IjDrJ5wYdQX_F4CZiVke5pAPwlXzNyReElshX6zuiC7wnAi3HMY4krTlLOYlLxOgqxW0cxy7EBQcyH=w1600)
 
 ## Support 🛎️
